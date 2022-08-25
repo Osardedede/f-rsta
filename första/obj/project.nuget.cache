@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6DQvelZeJLYhThvEUKXmz/rd+pJZI+JUwN1p4YtcFSDGlZw3lgdtreP0tSrVDQ+BXSBFzFHgcw2A1jmOeB1Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jansson.oscar\\Documents\\Prog2\\första\\första\\första\\första.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jansson.oscar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

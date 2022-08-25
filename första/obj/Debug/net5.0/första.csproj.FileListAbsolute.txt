@@ -1,0 +1,16 @@
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.exe
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.deps.json
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.runtimeconfig.json
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.runtimeconfig.dev.json
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.dll
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\bin\Debug\net5.0\första.pdb
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.csproj.AssemblyReference.cache
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.AssemblyInfoInputs.cache
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.AssemblyInfo.cs
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.csproj.CoreCompileInputs.cache
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.dll
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\refint\första.dll
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.pdb
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\första.genruntimeconfig.cache
+C:\Users\jansson.oscar\Documents\Prog2\första\första\första\obj\Debug\net5.0\ref\första.dll
